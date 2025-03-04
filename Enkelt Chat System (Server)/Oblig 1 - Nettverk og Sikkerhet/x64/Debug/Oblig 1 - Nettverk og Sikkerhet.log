@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Hans Kjøstelsen\source\repos\Oblig 1 - Nettverk og Sikkerhet\Oblig 1 - Nettverk og Sikkerhet\Main.cpp(193,70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Oblig 1 - Nettverk og Sikkerhet.vcxproj -> C:\Users\Hans Kjøstelsen\source\repos\Oblig 1 - Nettverk og Sikkerhet\x64\Debug\Oblig 1 - Nettverk og Sikkerhet.exe
